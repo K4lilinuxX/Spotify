@@ -56,7 +56,7 @@ Tras limpiar el set de datos y aislar una muestra final de 2,792 registros anglo
 El margen exacto por el cual aventaja el bloque Anglosajón al Latino en reproducciones promedio por canción se define mediante la siguiente relación matemática:
 
 $$\text{Margen} = 505.87\text{ millones} - 400.19\text{ millones}$$
-
+$$\text{Margen} = 105.68\text{ millones de streams}$$
 
 Esto significa que una canción promedio de raíz angloparlante cuenta con un 26.4% más de reproducciones individuales que una canción del bloque latino dentro del dataset estudiado, explicado principalmente por el alcance histórico y global de dicho mercado.  
 
